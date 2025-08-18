@@ -4,3 +4,4 @@ notes-api-web-server.pem
 .prod.env
 npm-debug.log*
 .DS_Store
+src/api/uploads/file
